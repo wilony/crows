@@ -1,0 +1,64 @@
+#info {
+  text-align: center;
+  font-family:'Gill Sans', sans-serif;
+  font-size: 25px;
+}
+
+#crow-img {
+  height: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#crow-text {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+}
+
+#crow-btn {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 100%;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50px;
+  transition-duration: 0.4s;
+}
+
+#crow-btn:hover {
+  background-color: #95829c;
+  color: #000000;
+}
+
+#source-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #4caf50;
+}
+
+a:visited {
+  color: #82899c;
+}
+
+a:hover {
+  color: #537c6e;
+}
+
+a:active {
+  color: #7dc0d4;
+}
